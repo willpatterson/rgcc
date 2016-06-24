@@ -1,0 +1,6 @@
+RPMS/
+SRPMS/
+
+_arch
+
+*.swp

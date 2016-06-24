@@ -1,0 +1,35 @@
+<?xml version="1.0" standalone="no"?>
+
+<kickstart>
+
+
+	<description>
+	The rgcc roll is intended to provide a framework to build and install newer versions of GCC on Rocks
+	</description>
+
+	<copyright>
+	Copyright (c) 2000 - 2014 The Regents of the University of California.
+	All rights reserved. Rocks(r) v6.1.1 www.rocksclusters.org
+	
+	</copyright>
+
+	<changelog>
+	$Log$
+	5/4/2016 -- Added first packages 
+	5/17/2016 -- Added flex package
+		     Added the texinfo package
+
+	</changelog>
+
+	<package>rgcc</package>
+	<package>neon</package>
+	<package>pakchois</package>
+	<package>subversion</package>
+	<package>texinfo</package>
+	<package>texinfo-tex</package>
+	<package>libgcc.i686</package>
+	<package>glibc-devel.i686</package>
+	<package>flex</package>
+
+
+</kickstart>

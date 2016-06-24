@@ -1,0 +1,6 @@
+ROLLNAME	= rgcc
+VERSION		= 1.0
+RELEASE		= 4
+COLOR		= antiquewhite
+
+REDHAT.ROOT	= $(CURDIR)
